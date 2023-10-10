@@ -24,6 +24,22 @@ Feel free to reach out if you share similar interests or if you'd like to connec
 Thanks for stopping by, and happy coding! 🚀
 
 
+<div align="center">
+
+<!--
+https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
+-->
+<a href="https://github.com/ASalem404/ASalem404#gh-dark-mode-only">
+<img src="https://github.com/ASalem404/ASalem404/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/ASalem404/ASalem404/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/ASalem404/ASalem404#gh-light-mode-only">
+<img src="https://github.com/ASalem404/ASalem404/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
+<img src="https://github.com/ASalem404/ASalem404/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+</a>
+
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ASalem404/ASalem404/commit-animation/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ASalem404/ASalem404/commit-animation/github-contribution-grid-snake.svg">
