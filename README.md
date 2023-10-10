@@ -3,7 +3,7 @@
 
 ## 💼 Professional Background
 
-  <ul>
+  <ul align="center">
         <li>⚙ Backend Development: I have hands-on experience in building robust and scalable backend systems using technologies like Node.js, Express, MongoDB, and more.</li>
         <li>🌐 Web Technologies: I'm well-versed in web development, and I've worked with frameworks like Express.js and a lot of its important helper packages.</li>
         <li>🚀 Cloud Computing: I'm currently diving deep into AWS services, learning how to design, deploy, and maintain cloud-based solutions.</li>
@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-Feel free to reach out if you share similar interests or if you'd like to connect.
+<h5 align="center">Feel free to reach out if you share similar interests or if you'd like to connect.</h5>
 
 ## 📫 Get in Touch
 
-- LinkedIn: linkedin.com/in/ahmed-salem-62ab41195
+<h5 align="center"> LinkedIn: linkedin.com/in/ahmed-salem-62ab41195</h5>
 
-Thanks for stopping by, and happy coding! 🚀
+<h5 align="center">Thanks for stopping by, and happy coding! 🚀</h5>
 
 
 <div align="center">
