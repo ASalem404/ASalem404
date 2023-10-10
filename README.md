@@ -6,7 +6,7 @@ My goal those days is to obtain the AWS Developer Associate certificate to furth
 
 ## 💼 Professional Background
 
-- ⚙ Backend Development: I have hands-on experience in building robust and scalable backend systems using technologies like Node.js, Express, and MongoDB.
+- ⚙ Backend Development: I have hands-on experience in building robust and scalable backend systems using technologies like Node.js, Express, MongoDB and more.
 - 🌐 Web Technologies: I'm well-versed in web development, and I've worked with frameworks like Express.js, and a lot of its important helper packages.
 - 🚀 Cloud Computing: I'm currently diving deep into AWS services, learning how to design, deploy, and maintain cloud-based solutions.
 - 📦 Containers and Orchestration: I have a keen interest in containerization technologies like Docker and orchestration tools like Kubernetes.
