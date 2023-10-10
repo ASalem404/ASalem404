@@ -1,6 +1,4 @@
-<h1 align="center">
- Hi there, I'm Ahmed! 👋
-</h1>
+<h1 align="center">Hi there, I'm Ahmed! 👋</h1>
 I'm a passionate software engineer with a strong focus on backend development.
 Currently, I'm on an exciting journey to expand my expertise in cloud computing and AWS.
 My goal those days is to obtain the AWS Developer Associate certificate to further enhance my skills and open up new opportunities.
