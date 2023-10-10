@@ -4,7 +4,7 @@
 <h3 align="center"> 💼 Professional Background </h3>
 
   <ul align="center">
-        <li align="center">⚙ Backend Development: I have hands-on experience in building robust and scalable backend systems using technologies like Node.js, Express, MongoDB, and more.</li>
+        <li>⚙ Backend Development: I have hands-on experience in building robust and scalable backend systems using technologies like Node.js, Express, MongoDB, and more.</li>
         <li>🌐 Web Technologies: I'm well-versed in web development, and I've worked with frameworks like Express.js and a lot of its important helper packages.</li>
         <li>🚀 Cloud Computing: I'm currently diving deep into AWS services, learning how to design, deploy, and maintain cloud-based solutions.</li>
         <li>📦 Containers and Orchestration: I have a keen interest in containerization technologies like Docker and orchestration tools like Kubernetes.</li>
@@ -14,20 +14,17 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<h4 align="center">Feel free to reach out if you share similar interests or if you'd like to connect.</h4>
 
 <h3 align="center"> 📫 Get in Touch </h3>
 
 <h4 align="center"> LinkedIn: linkedin.com/in/ahmed-salem-62ab41195</h4>
 
+<h4 align="center">Feel free to reach out if you share similar interests or if you'd like to connect.</h4>
 <h4 align="center">Thanks for stopping by, and happy coding! 🚀</h4>
 
 
 <div align="center">
 
-<!--
-https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
--->
 <a href="https://github.com/ASalem404/ASalem404#gh-dark-mode-only">
 <img src="https://github.com/ASalem404/ASalem404/blob/main/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/ASalem404/ASalem404/blob/main/generated/languages.svg#gh-dark-mode-only" />
