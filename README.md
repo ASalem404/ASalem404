@@ -30,12 +30,12 @@ Thanks for stopping by, and happy coding! 🚀
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
 <a href="https://github.com/ASalem404/ASalem404#gh-dark-mode-only">
-<img src="https://github.com/ASalem404/ASalem404/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/ASalem404/ASalem404/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/ASalem404/ASalem404/blob/main/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/ASalem404/ASalem404/blob/main/generated/languages.svg#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/ASalem404/ASalem404#gh-light-mode-only">
-<img src="https://github.com/ASalem404/ASalem404/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
-<img src="https://github.com/ASalem404/ASalem404/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+<img src="https://github.com/ASalem404/ASalem404/blob/main/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
+<img src="https://github.com/ASalem404/ASalem404/blob/main/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
 </a>
 
 </div>
