@@ -19,7 +19,7 @@ Feel free to reach out if you share similar interests or if you'd like to connec
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Connect with me](linkedin.com/in/ahmed-salem-62ab41195)
+- LinkedIn: linkedin.com/in/ahmed-salem-62ab41195
 
 Thanks for stopping by, and happy coding! 🚀
 
