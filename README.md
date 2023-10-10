@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ahmed! 👋</h1>
 <h3 align="center">I'm a passionate software engineer with a strong focus on backend development.Currently, I'm on an exciting journey to expand my expertise in cloud computing and AWS.My goal those days is to obtain the AWS Developer Associate certificate to further enhance my skills and open up new opportunities.</h3>
 
-## 💼 Professional Background
+<h3 align="center"> 💼 Professional Background </h3>
 
   <ul align="center">
         <li>⚙ Backend Development: I have hands-on experience in building robust and scalable backend systems using technologies like Node.js, Express, MongoDB, and more.</li>
@@ -14,13 +14,13 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<h5 align="center">Feel free to reach out if you share similar interests or if you'd like to connect.</h5>
+<h4 align="center">Feel free to reach out if you share similar interests or if you'd like to connect.</h4>
 
-## 📫 Get in Touch
+<h3 align="center"> 📫 Get in Touch </h3>
 
-<h5 align="center"> LinkedIn: linkedin.com/in/ahmed-salem-62ab41195</h5>
+<h4 align="center"> LinkedIn: linkedin.com/in/ahmed-salem-62ab41195</h4>
 
-<h5 align="center">Thanks for stopping by, and happy coding! 🚀</h5>
+<h4 align="center">Thanks for stopping by, and happy coding! 🚀</h4>
 
 
 <div align="center">
