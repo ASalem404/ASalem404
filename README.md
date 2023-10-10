@@ -1,10 +1,10 @@
-<h1 align="center" color="white">Hi there, I'm Ahmed! 👋</h1>
+<h1 align="center">Hi there, I'm Ahmed! 👋</h1>
 <h3 align="center">I'm a passionate software engineer with a strong focus on backend development.Currently, I'm on an exciting journey to expand my expertise in cloud computing and AWS.My goal those days is to obtain the AWS Developer Associate certificate to further enhance my skills and open up new opportunities.</h3>
 
 <h3 align="center"> 💼 Professional Background </h3>
 
   <ul align="center">
-        <li>⚙ Backend Development: I have hands-on experience in building robust and scalable backend systems using technologies like Node.js, Express, MongoDB, and more.</li>
+        <li align="center">⚙ Backend Development: I have hands-on experience in building robust and scalable backend systems using technologies like Node.js, Express, MongoDB, and more.</li>
         <li>🌐 Web Technologies: I'm well-versed in web development, and I've worked with frameworks like Express.js and a lot of its important helper packages.</li>
         <li>🚀 Cloud Computing: I'm currently diving deep into AWS services, learning how to design, deploy, and maintain cloud-based solutions.</li>
         <li>📦 Containers and Orchestration: I have a keen interest in containerization technologies like Docker and orchestration tools like Kubernetes.</li>
