@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ahmed! 👋</h1>
-<h4 align="center">I'm a passionate software engineer with a strong focus on backend development and serverless computing. 
+<h4 align="center">I'm a passionate software engineer with a strong focus on backend development and serverless computing.</br> 
   AWS Certified Developer Associate. Enthusiastic about building scalable, efficient systems and leveraging cloud technologies to deliver impactful solutions.</h4>
 
 
