@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Ahmed! 👋</h1>
-<h4 align="center">I'm a passionate software engineer with a strong focus on backend development. 
-  AWS Certified Developer Associate. Constantly exploring cloud computing and scalable architectures. 
-  Excited to build efficient, innovative solutions and contribute to impactful projects..</h4>
+<h4 align="center">I'm a passionate software engineer with a strong focus on backend development and serverless computing. 
+  AWS Certified Developer Associate. Enthusiastic about building scalable, efficient systems and leveraging cloud technologies to deliver impactful solutions.</h4>
 
 
 
